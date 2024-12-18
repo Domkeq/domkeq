@@ -16,7 +16,7 @@
   <img src="https://about.gitlab.com/images/press/logo/png/gitlab-logo-500.png" alt="GitLab CI/CD" title="GitLab CI/CD" width="48" height="48" />
   <img src="https://argo-cd.readthedocs.io/en/stable/assets/argo.png" alt="ArgoCD" title="ArgoCD" width="48" height="48" />
   <img src="https://grafana.com/static/img/menu/grafana2.svg" alt="Grafana" title="Grafana" width="48" height="48" />
-  <img src="https://www.graylog.org/images/logo.png" alt="Graylog" title="Graylog" width="48" height="48" />
+  <img src="https://raw.githubusercontent.com/Graylog2/graylog2-server/master/graylog2-web-interface/src/assets/img/graylog-logo.svg" alt="Graylog" title="Graylog" width="48" height="48" />
   <img src="https://assets.zabbix.com/img/brands/zabbix.svg" alt="Zabbix" title="Zabbix" width="48" height="48" />
 </p>
 
