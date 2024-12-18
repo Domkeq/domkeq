@@ -1,6 +1,8 @@
 ## Hi there 👋
 
-![Slider](assets/gitgif.gif)
+<div align="center">
+  <img src="assets/gitgif.gif" width="50%" alt="Slider" />
+</div>
 
 ## Languages
 <p align="center">
