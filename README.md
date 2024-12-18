@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+![Slider](assets/gitgif.gif)
+
 ## Languages
 <p align="center">
   <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++" title="C++" />
