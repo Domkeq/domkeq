@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <div align="center">
-  <img src="assets/gitgif.gif" width="50%" alt="Slider" />
+  <img src="assets/gitgif.gif" width="65%" alt="Slider" />
 </div>
 
 ## Languages
