@@ -11,6 +11,7 @@
 <p align="center">
   <img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker" title="Docker" />
   <img src="https://img.icons8.com/color/48/000000/kubernetes.png" alt="Kubernetes" title="Kubernetes" />
-  <img src="https://img.icons8.com/color/48/000000/helm.png" alt="Helm" title="Helm" />
+  <img src="https://helm.sh/img/helm.svg" alt="Helm" title="Helm" width="48" height="48" />
   <img src="https://img.icons8.com/color/48/000000/linux.png" alt="Linux" title="Linux" />
 </p>
+
