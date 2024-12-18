@@ -1,16 +1,16 @@
 ## Hi there 👋
 
-<!--
-**Domkeq/domkeq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Languages
+<p align="center">
+  <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++" title="C++" />
+  <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" alt="C#" title="C#" />
+  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" title="Java" />
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technologies
+<p align="center">
+  <img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker" title="Docker" />
+  <img src="https://img.icons8.com/color/48/000000/kubernetes.png" alt="Kubernetes" title="Kubernetes" />
+  <img src="https://img.icons8.com/color/48/000000/helm.png" alt="Helm" title="Helm" />
+  <img src="https://img.icons8.com/color/48/000000/linux.png" alt="Linux" title="Linux" />
+</p>
