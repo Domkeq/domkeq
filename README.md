@@ -13,5 +13,16 @@
   <img src="https://img.icons8.com/color/48/000000/kubernetes.png" alt="Kubernetes" title="Kubernetes" />
   <img src="https://helm.sh/img/helm.svg" alt="Helm" title="Helm" width="48" height="48" />
   <img src="https://img.icons8.com/color/48/000000/linux.png" alt="Linux" title="Linux" />
+  <img src="https://about.gitlab.com/images/press/logo/png/gitlab-logo-500.png" alt="GitLab CI/CD" title="GitLab CI/CD" width="48" height="48" />
+  <img src="https://argo-cd.readthedocs.io/en/stable/assets/argo.png" alt="ArgoCD" title="ArgoCD" width="48" height="48" />
+  <img src="https://grafana.com/static/img/menu/grafana2.svg" alt="Grafana" title="Grafana" width="48" height="48" />
+  <img src="https://www.graylog.org/images/logo.png" alt="Graylog" title="Graylog" width="48" height="48" />
+  <img src="https://assets.zabbix.com/img/brands/zabbix.svg" alt="Zabbix" title="Zabbix" width="48" height="48" />
 </p>
 
+## Databases
+<p align="center">
+  <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png" alt="SSMS" title="SSMS" />
+  <img src="https://img.icons8.com/color/48/000000/postgresql.png" alt="PostgreSQL" title="PostgreSQL" />
+  <img src="https://img.icons8.com/color/48/000000/oracle-logo.png" alt="Oracle" title="Oracle" />
+</p>
